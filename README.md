@@ -1,6 +1,6 @@
 <h1 align="center">Jeevan Gowda</h1>
 <p align="center">
-  AI/ML Engineer • Flutter & Web Developer • Python Automation
+  AI/ML • Flutter & Web Developer • Python Automation
 </p>
 
 <p align="center">
