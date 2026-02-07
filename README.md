@@ -1,97 +1,118 @@
-<h1 align="center">Hi 👋, I'm Jeevan Gowda</h1>
-
+<h1 align="center">Jeevan Gowda</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Builder;Flutter+App+Developer;Python+Automation+Enthusiast;Building+Real-World+Intelligent+Systems" />
+  AI/ML Engineer • Flutter & Web Developer • Python Automation
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeevan-gowda8&label=Profile+Views&color=58A6FF&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Systems+in+Real+Applications;Flutter+%26+Web+Dashboards;ML+Models+as+REST+APIs;Python+Voice+Assistant+%28Jarvis%29" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Profile
 
-🎓 Undergraduate specializing in **Artificial Intelligence & Machine Learning**  
-💡 I love building **real, working systems** — not just models, but complete apps, APIs, and deployments.  
-🧠 Strong focus on **Computer Vision, Generative AI, and Practical ML systems**  
-📱 Also a **Flutter developer** building IoT & monitoring dashboards  
-🤖 Currently building a **Python Voice Assistant (Jarvis)** with automation, app control, and server connectivity  
+Undergraduate specializing in Artificial Intelligence and Machine Learning with hands-on experience building **complete software systems**.
 
-> I believe AI is powerful only when it is **usable in real applications**.
+I work at the intersection of Artificial Intelligence, Flutter applications, Web dashboards, Backend APIs, and Python automation.
+
+This blend of **AI + Apps + Web + APIs + Automation** defines my work.
 
 ---
 
-## 🔭 What I’m Working On
+## Current Work
 
-- 🧾 **Fake Academic Degree Detection using AI/ML**
-- 🤖 Advanced **Jarvis Voice Assistant** with system control + Flask server
-- 🌐 End-to-end ML model deployment as REST APIs
-- 📱 Flutter-based **IoT Campus Monitoring & Street Light Control App**
-- 🧠 Exploring **RAG, LLM fine-tuning, and Vision models**
-
----
-
-## 🧠 Core Skills
-
-### 👨‍💻 Programming
-`Python` • `C` • `C++` • `Dart` • `SQL`
-
-### 🧠 AI / ML / CV
-`TensorFlow` • `PyTorch` • `OpenCV` • `Scikit-learn` • `CNNs` • `Transformers` • `Face Recognition`
-
-### 🌐 Backend & APIs
-`Flask` • `FastAPI` • `REST APIs` • `JSON` • `Model Serving`
-
-### 📱 App Development
-`Flutter` • `IoT Dashboards` • `API Integration` • `State Management`
-
-### ☁️ DevOps & Tools
-`Docker` • `Git` • `AWS` • `GCP` • `Linux`
+- Fake Academic Degree Detection using Computer Vision
+- Python Voice Assistant (Jarvis) with system control and Flask server
+- Flutter & Web-based IoT Campus Monitoring and Street Light Control
+- Deploying ML models as production REST APIs
+- Exploring RAG, LLM fine-tuning, and Vision Transformers
 
 ---
 
-## 💼 Highlight Projects
+## Skills
 
-| Project | What it does | Stack |
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+### AI / ML / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-FF5C5C?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-000000?style=flat-square&logo=huggingface&logoColor=white" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+</p>
+
+### App Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT%20Dashboard-0A0A0A?style=flat-square&logo=arduino&logoColor=white" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| **Jarvis Voice Assistant** | Voice-controlled system that opens apps, plays music, shuts down PC, connects to Flask server | Python, SpeechRecognition, Flask |
-| **Campus Monitoring IoT App** | Flutter dashboard to control & monitor street lights and devices via APIs | Flutter, REST API |
-| **Smart Attendance System** | Face recognition based automated attendance | OpenCV, FaceNet, Flask |
-| **Fake Degree Detection (ML)** | Detects forged academic certificates using image & pattern analysis | Python, CNN, OpenCV |
-| **ML Model REST API** | Deploy ML models as scalable APIs | FastAPI, Docker, AWS |
+| Jarvis Voice Assistant | Voice-controlled automation system with app control and server connectivity | Python, Flask |
+| Campus Monitoring IoT App | Flutter & Web dashboard to monitor and control street lights and devices | Flutter, HTML, CSS, REST API |
+| Smart Attendance System | Face recognition based automated attendance | OpenCV, FaceNet, Flask |
+| Fake Degree Detection | Detect forged academic certificates using image analysis | Python, CNN, OpenCV |
+| ML Model REST API | Serve ML models through scalable APIs | FastAPI, Docker, AWS |
 
-🔗 **All projects:** https://github.com/jeevan-gowda8?tab=repositories
+Repositories:  
+https://github.com/jeevan-gowda8
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&theme=github_dark&show_icons=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-gowda8&theme=github_dark&layout=compact" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jeevan-gowda8&theme=github_dark" height="160" />
-</div>
-
----
-
-## 🏆 Achievements & Mindset
-
-- 🛠️ Build first, optimize later
-- 📚 Learn in public
-- 🚀 Focus on real implementations over theory
-- 🤝 Open to collaboration on AI, Flutter, and Automation projects
+<p align="center">
+  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=jeevan-gowda8&theme=github_dark" />
+</p>
 
 ---
 
-## 📬 Connect With Me
+## Contact
 
 <p align="center">
   <a href="mailto:jeevangowdajeevan080@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/ll_.jeevan._.gowda._ll">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -100,10 +121,6 @@
 
 ---
 
-### ⚡ Fun Fact
-
-I don’t just train models — I turn them into **apps, assistants, and real systems**.
-
----
-
-⭐ *Last updated: Feb 2026*
+<p align="center">
+  Building practical AI systems that work in real applications.
+</p>
