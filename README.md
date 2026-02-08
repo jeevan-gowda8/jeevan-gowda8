@@ -87,8 +87,6 @@ This blend of **AI + Apps + Web + APIs + Automation** defines my work.
 | Terminator Voice Assistant | Voice-controlled automation system with app control and server connectivity | Python, Flask |
 | Campus Monitoring IoT App | Flutter & Web dashboard to monitor and control street lights and devices | Flutter, HTML, CSS, REST API |
 | Smart Attendance System | Face recognition based automated attendance | OpenCV, FaceNet, Flask |
-| Fake Degree Detection | Detect forged academic certificates using image analysis | Python, CNN, OpenCV |
-| ML Model REST API | Serve ML models through scalable APIs | FastAPI, Docker, AWS |
 
 Repositories:  
 https://github.com/jeevan-gowda8
