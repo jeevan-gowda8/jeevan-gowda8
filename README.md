@@ -8,8 +8,7 @@
 
 <p align="center">
   Currently working at <b>Abhyudyaya Techno Solution Pvt. Ltd.</b><br/>
-  I specialize in <b>Artificial Intelligence & Machine Learning</b> and build complete software systems —<br/>
-  not just models, but the apps, APIs and automation around them.
+  I specialize in <b>Artificial Intelligence & Machine Learning</b> and build complete software systems — not just models, but the apps, APIs and automation around them.
 </p>
 
 <br/>
