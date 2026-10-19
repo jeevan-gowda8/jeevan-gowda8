@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=3" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
+  <img src="./assets/header.svg?v=4" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
 </p>
 
 <p align="center">
