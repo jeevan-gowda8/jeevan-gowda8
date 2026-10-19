@@ -1,124 +1,132 @@
-<h1 align="center">Jeevan Gowda</h1>
-<p align="center">
-  AI/ML • Flutter & Web Developer • Python Automation
-</p>
+<h1 align="center">Hi, I'm Jeevan Gowda 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Systems+in+Real+Applications;Flutter+%26+Web+Dashboards;ML+Models+as+REST+APIs;Python+Voice+Assistant+%28Jarvis%29" />
+  <b>AI/ML Engineer in the making • Flutter & Web Developer • Python Automation</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+AI+systems+for+real+applications;Flutter+%26+Web+dashboards;Shipping+ML+models+as+REST+APIs;Python+voice+assistant+%E2%80%94+Jarvis" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/jeevan-gowda8"><img src="https://img.shields.io/github/followers/jeevan-gowda8?label=Follow&style=social" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jeevan-gowda8&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
 
-## Profile
+## 🧠 About Me
 
-Undergraduate specializing in Artificial Intelligence and Machine Learning with hands-on experience building **complete software systems**.
+I'm an undergraduate specializing in **Artificial Intelligence and Machine Learning**, and I like building **complete software systems** — not just models, but the apps, APIs and automation around them.
 
-I work at the intersection of Artificial Intelligence, Flutter applications, Web dashboards, Backend APIs, and Python automation.
-
-This blend of **AI + Apps + Web + APIs + Automation** defines my work.
-
----
-
-## Current Work
-
-- Fake Academic Degree Detection using Computer Vision
-- Python Voice Assistant (Jarvis) with system control and Flask server
-- Flutter & Web-based IoT Campus Monitoring and Street Light Control
-- Deploying ML models as production REST APIs
-- Exploring RAG, LLM fine-tuning, and Vision Transformers
+- 🤖 **AI / ML** — computer vision, model training and deployment
+- 📱 **Apps** — cross-platform apps with Flutter
+- 🌐 **Web** — dashboards and frontends that talk to real backends
+- ⚙️ **APIs** — serving ML models with Flask and FastAPI
+- 🐍 **Automation** — Python tools that control systems and save time
 
 ---
 
-## Skills
+## 🚀 Currently Working On
 
-### Programming Languages
+- 🎓 **Fake Academic Degree Detection** using computer vision
+- 🎙️ **Jarvis** — a Python voice assistant with system control and a Flask server
+- 💡 **IoT Campus Monitoring** — Flutter & web app for street-light and device control
+- 🔌 Deploying ML models as production-ready **REST APIs**
+- 📚 Exploring **RAG**, **LLM fine-tuning** and **Vision Transformers**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### Web Technologies
+**AI / ML / Computer Vision**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
 </p>
 
-### AI / ML / Computer Vision
+**Backend & APIs**
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-FF5C5C?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-000000?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
 </p>
 
-### Backend & APIs
+**Apps & Web**
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
 </p>
 
-### App Development
+**Tools & Cloud**
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Dashboard-0A0A0A?style=flat-square&logo=arduino&logoColor=white" />
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## Projects
+## 📂 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| Terminator Voice Assistant | Voice-controlled automation system with app control and server connectivity | Python, Flask |
-| Campus Monitoring IoT App | Flutter & Web dashboard to monitor and control street lights and devices | Flutter, HTML, CSS, REST API |
-| Smart Attendance System | Face recognition based automated attendance | OpenCV, FaceNet, Flask |
-
-Repositories:  
-https://github.com/jeevan-gowda8
-
----
-
-## GitHub Statistics
+| 🎙️ **Jarvis Voice Assistant** | Voice-controlled automation: opens and controls apps, runs system commands, and connects to a Flask server | Python, Flask |
+| 💡 **IoT Campus Monitoring** | Flutter & web dashboard to monitor and control campus street lights and devices | Flutter, HTML, CSS, REST API |
+| 🧑‍🎓 **Smart Attendance System** | Automated attendance using face recognition | OpenCV, FaceNet, Flask |
+| 🎓 **Fake Degree Detection** | Detects forged academic certificates with computer vision *(in progress)* | Python, OpenCV, Deep Learning |
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&theme=github_dark&show_icons=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-gowda8&theme=github_dark&layout=compact" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=jeevan-gowda8&theme=github_dark" />
+  <a href="https://github.com/jeevan-gowda8?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
+  </a>
 </p>
 
 ---
 
-## Contact
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-gowda8&theme=github_dark&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=jeevan-gowda8&theme=github_dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:jeevangowdajeevan080@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/ll_.jeevan._.gowda._ll">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Building practical AI systems that work in real applications.
+  <i>Building practical AI systems that work in real applications.</i>
 </p>
