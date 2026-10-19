@@ -26,23 +26,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeevan-gowda8/Draft_Guard"><img src="./assets/projects/draftguard.svg?v=3" width="49%" alt="DraftGuard" /></a>
-  <a href="https://github.com/jeevan-gowda8/aiurva"><img src="./assets/projects/aiurva.svg?v=3" width="49%" alt="AIURVA Medical Assistant" /></a>
+  <a href="https://github.com/jeevan-gowda8/draftguard"><img src="./assets/projects/draftguard.svg?v=3" width="49%" alt="DraftGuard" /></a>
+  <a href="https://github.com/jeevan-gowda8/aiurva-medical-assistant"><img src="./assets/projects/aiurva.svg?v=3" width="49%" alt="AIURVA Medical Assistant" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeevan-gowda8/Training-Updater"><img src="./assets/projects/training-tracker.svg?v=3" width="49%" alt="Training Tracker" /></a>
-  <a href="https://github.com/jeevan-gowda8/billing-web"><img src="./assets/projects/ats-reimbursement.svg?v=3" width="49%" alt="ATS Reimbursement Portal" /></a>
+  <a href="https://github.com/jeevan-gowda8/training-tracker"><img src="./assets/projects/training-tracker.svg?v=3" width="49%" alt="Training Tracker" /></a>
+  <a href="https://github.com/jeevan-gowda8/ats-reimbursement-portal"><img src="./assets/projects/ats-reimbursement.svg?v=3" width="49%" alt="ATS Reimbursement Portal" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeevan-gowda8/EcoBrain"><img src="./assets/projects/campus-monitor.svg?v=3" width="49%" alt="Campus Monitor" /></a>
-  <a href="https://github.com/jeevan-gowda8/admission-quiz"><img src="./assets/projects/gttc-admission.svg?v=3" width="49%" alt="GTTC Admission Portal" /></a>
+  <a href="https://github.com/jeevan-gowda8/campus-monitor-iot"><img src="./assets/projects/campus-monitor.svg?v=3" width="49%" alt="Campus Monitor" /></a>
+  <a href="https://github.com/jeevan-gowda8/gttc-admission-portal"><img src="./assets/projects/gttc-admission.svg?v=3" width="49%" alt="GTTC Admission Portal" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeevan-gowda8/Terminator-Desktop-Assisant"><img src="./assets/projects/terminator.svg?v=3" width="49%" alt="Terminator Desktop Assistant" /></a>
-  <a href="https://github.com/jeevan-gowda8/nursery"><img src="./assets/projects/areca-nursery.svg?v=3" width="49%" alt="Sri Areca Haven Nursery" /></a>
+  <a href="https://github.com/jeevan-gowda8/terminator-voice-assistant"><img src="./assets/projects/terminator.svg?v=3" width="49%" alt="Terminator Desktop Assistant" /></a>
+  <a href="https://github.com/jeevan-gowda8/sri-areca-haven-nursery"><img src="./assets/projects/areca-nursery.svg?v=3" width="49%" alt="Sri Areca Haven Nursery" /></a>
 </p>
 
 <p align="center">
