@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/jeevan-gowda8"><img src="https://img.shields.io/github/followers/jeevan-gowda8?label=Follow&style=social" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jeevan-gowda8&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -19,30 +18,25 @@
 
 Undergraduate specializing in **Artificial Intelligence and Machine Learning**. I build complete software systems: not just models, but the apps, APIs and automation around them.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>What I do</h3>
-      <table>
-        <tr><td><b>AI / ML</b></td><td>Computer vision, model training and deployment</td></tr>
-        <tr><td><b>Apps</b></td><td>Cross-platform apps with Flutter</td></tr>
-        <tr><td><b>Web</b></td><td>Dashboards connected to real backends</td></tr>
-        <tr><td><b>APIs</b></td><td>Serving ML models with Flask and FastAPI</td></tr>
-        <tr><td><b>Automation</b></td><td>Python tools that control systems</td></tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Currently working on</h3>
-      <table>
-        <tr><td><b>Degree Verification</b></td><td>Fake academic degree detection with computer vision</td></tr>
-        <tr><td><b>Jarvis</b></td><td>Python voice assistant with system control and a Flask server</td></tr>
-        <tr><td><b>IoT Campus</b></td><td>Flutter & web app for street-light and device control</td></tr>
-        <tr><td><b>ML APIs</b></td><td>Deploying models as production REST APIs</td></tr>
-        <tr><td><b>Exploring</b></td><td>RAG, LLM fine-tuning, Vision Transformers</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+### What I do
+
+| Area | Focus |
+|---|---|
+| **AI / ML** | Computer vision, model training and deployment |
+| **Apps** | Cross-platform apps with Flutter |
+| **Web** | Dashboards connected to real backends |
+| **APIs** | Serving ML models with Flask and FastAPI |
+| **Automation** | Python tools that control systems |
+
+### Currently working on
+
+| Project | Details |
+|---|---|
+| **Degree Verification** | Fake academic degree detection with computer vision |
+| **Jarvis** | Python voice assistant with system control and a Flask server |
+| **IoT Campus** | Flutter & web app for street-light and device control |
+| **ML APIs** | Deploying models as production REST APIs |
+| **Exploring** | RAG, LLM fine-tuning, Vision Transformers |
 
 ---
 
