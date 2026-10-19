@@ -42,33 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/head-stack.svg?v=3" width="100%" alt="Tech stack" />
+  <img src="./assets/tech-stack.svg?v=3" width="100%" alt="Tech stack: Python, JavaScript, Dart, C, C++, SQL, TensorFlow, PyTorch, OpenCV, scikit-learn, React, Flutter, HTML, CSS, Firebase, Arduino, Flask, FastAPI, Docker, AWS, GCP, Git, Linux" />
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <sub><b>LANGUAGES</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,dart,mysql&theme=dark" alt="Python, C, C++, Dart, SQL" />
-    </td>
-    <td align="center" width="50%">
-      <sub><b>AI / ML &amp; COMPUTER VISION</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="TensorFlow, PyTorch, OpenCV, scikit-learn" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <sub><b>BACKEND · APPS · IOT</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=flask,fastapi,flutter,html,css,arduino&theme=dark" alt="Flask, FastAPI, Flutter, HTML, CSS, Arduino" />
-    </td>
-    <td align="center">
-      <sub><b>CLOUD &amp; TOOLS</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,git,aws,gcp,linux&theme=dark" alt="Docker, Git, AWS, GCP, Linux" />
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <p align="center">
   <img src="./assets/head-stats.svg?v=3" width="100%" alt="GitHub stats" />
