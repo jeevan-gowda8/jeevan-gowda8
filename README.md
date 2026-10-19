@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeevan Gowda 👋</h1>
+<h1 align="center">Jeevan Gowda</h1>
 
 <p align="center">
   <b>AI/ML Engineer in the making • Flutter & Web Developer • Python Automation</b>
@@ -15,29 +15,38 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm an undergraduate specializing in **Artificial Intelligence and Machine Learning**, and I like building **complete software systems** — not just models, but the apps, APIs and automation around them.
+Undergraduate specializing in **Artificial Intelligence and Machine Learning**. I build complete software systems: not just models, but the apps, APIs and automation around them.
 
-- 🤖 **AI / ML** — computer vision, model training and deployment
-- 📱 **Apps** — cross-platform apps with Flutter
-- 🌐 **Web** — dashboards and frontends that talk to real backends
-- ⚙️ **APIs** — serving ML models with Flask and FastAPI
-- 🐍 **Automation** — Python tools that control systems and save time
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I do</h3>
+      <table>
+        <tr><td><b>AI / ML</b></td><td>Computer vision, model training and deployment</td></tr>
+        <tr><td><b>Apps</b></td><td>Cross-platform apps with Flutter</td></tr>
+        <tr><td><b>Web</b></td><td>Dashboards connected to real backends</td></tr>
+        <tr><td><b>APIs</b></td><td>Serving ML models with Flask and FastAPI</td></tr>
+        <tr><td><b>Automation</b></td><td>Python tools that control systems</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Currently working on</h3>
+      <table>
+        <tr><td><b>Degree Verification</b></td><td>Fake academic degree detection with computer vision</td></tr>
+        <tr><td><b>Jarvis</b></td><td>Python voice assistant with system control and a Flask server</td></tr>
+        <tr><td><b>IoT Campus</b></td><td>Flutter & web app for street-light and device control</td></tr>
+        <tr><td><b>ML APIs</b></td><td>Deploying models as production REST APIs</td></tr>
+        <tr><td><b>Exploring</b></td><td>RAG, LLM fine-tuning, Vision Transformers</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Currently Working On
-
-- 🎓 **Fake Academic Degree Detection** using computer vision
-- 🎙️ **Jarvis** — a Python voice assistant with system control and a Flask server
-- 💡 **IoT Campus Monitoring** — Flutter & web app for street-light and device control
-- 🔌 Deploying ML models as production-ready **REST APIs**
-- 📚 Exploring **RAG**, **LLM fine-tuning** and **Vision Transformers**
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 <p>
@@ -84,14 +93,14 @@ I'm an undergraduate specializing in **Artificial Intelligence and Machine Learn
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🎙️ **Jarvis Voice Assistant** | Voice-controlled automation: opens and controls apps, runs system commands, and connects to a Flask server | Python, Flask |
-| 💡 **IoT Campus Monitoring** | Flutter & web dashboard to monitor and control campus street lights and devices | Flutter, HTML, CSS, REST API |
-| 🧑‍🎓 **Smart Attendance System** | Automated attendance using face recognition | OpenCV, FaceNet, Flask |
-| 🎓 **Fake Degree Detection** | Detects forged academic certificates with computer vision *(in progress)* | Python, OpenCV, Deep Learning |
+| **Jarvis Voice Assistant** | Voice-controlled automation: opens and controls apps, runs system commands, and connects to a Flask server | Python, Flask |
+| **IoT Campus Monitoring** | Flutter & web dashboard to monitor and control campus street lights and devices | Flutter, HTML, CSS, REST API |
+| **Smart Attendance System** | Automated attendance using face recognition | OpenCV, FaceNet, Flask |
+| **Fake Degree Detection** | Detects forged academic certificates with computer vision *(in progress)* | Python, OpenCV, Deep Learning |
 
 <p align="center">
   <a href="https://github.com/jeevan-gowda8?tab=repositories">
@@ -101,7 +110,7 @@ I'm an undergraduate specializing in **Artificial Intelligence and Machine Learn
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
@@ -114,7 +123,7 @@ I'm an undergraduate specializing in **Artificial Intelligence and Machine Learn
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:jeevangowdajeevan080@gmail.com">
