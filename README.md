@@ -57,12 +57,12 @@
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1226&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d6ee&border_color=1d2a48&border_radius=16" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-gowda8&layout=compact&langs_count=8&card_width=400&bg_color=0b1226&title_color=22d3ee&text_color=c9d6ee&border_color=1d2a48&border_radius=16" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=16" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-gowda8&layout=compact&langs_count=8&card_width=400&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=16" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="175" src="https://streak-stats.demolab.com/?user=jeevan-gowda8&background=0B1226&border=1D2A48&border_radius=16&stroke=1D2A48&ring=22D3EE&fire=8B5CF6&currStreakNum=E8EEFB&sideNums=E8EEFB&currStreakLabel=22D3EE&sideLabels=8FA0BF&dates=8FA0BF" alt="GitHub streak" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=jeevan-gowda8&background=0D1117&border=30363D&border_radius=16&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -70,9 +70,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jeevangowdajeevan080@gmail.com"><img src="https://img.shields.io/badge/Email-0B1226?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
-  <a href="https://instagram.com/ll_.jeevan._.gowda._ll"><img src="https://img.shields.io/badge/Instagram-0B1226?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" /></a>
-  <a href="https://github.com/jeevan-gowda8?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B1226?style=for-the-badge&logo=github&logoColor=E8EEFB" alt="Repositories" /></a>
+  <a href="mailto:jeevangowdajeevan080@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
+  <a href="https://instagram.com/ll_.jeevan._.gowda._ll"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram" /></a>
+  <a href="https://github.com/jeevan-gowda8?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=E8EEFB" alt="Repositories" /></a>
 </p>
 
 <br/>
