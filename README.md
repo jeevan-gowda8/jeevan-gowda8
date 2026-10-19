@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
 </p>
 
 <p align="center">
@@ -14,17 +14,17 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/what-i-do.svg" width="100%" alt="What I do: AI/ML, Apps, Web, APIs, Automation" />
+  <img src="./assets/what-i-do.svg?v=2" width="100%" alt="What I do: AI/ML, Apps, Web, APIs, Automation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jeevan-gowda8?tab=repositories">
-    <img src="./assets/projects.svg" width="100%" alt="Featured projects: Fake Degree Detection, Jarvis Voice Assistant, IoT Campus Monitoring, Smart Attendance System" />
+    <img src="./assets/projects.svg?v=2" width="100%" alt="Featured projects: Fake Degree Detection, Jarvis Voice Assistant, IoT Campus Monitoring, Smart Attendance System" />
   </a>
 </p>
 
 <p align="center">
-  <img src="./assets/head-stack.svg" width="100%" alt="Tech stack" />
+  <img src="./assets/head-stack.svg?v=2" width="100%" alt="Tech stack" />
 </p>
 
 <table align="center">
@@ -53,7 +53,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/head-stats.svg" width="100%" alt="GitHub stats" />
+  <img src="./assets/head-stats.svg?v=2" width="100%" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/head-connect.svg" width="100%" alt="Let's connect" />
+  <img src="./assets/head-connect.svg?v=2" width="100%" alt="Let's connect" />
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Building practical AI systems that work in real applications." />
+  <img src="./assets/footer.svg?v=2" width="100%" alt="Building practical AI systems that work in real applications." />
 </p>
