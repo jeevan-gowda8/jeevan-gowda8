@@ -109,7 +109,7 @@ I'm an undergraduate specializing in **Artificial Intelligence and Machine Learn
 </p>
 
 <p align="center">
-  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=jeevan-gowda8&theme=github_dark&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=jeevan-gowda8&theme=github_dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
