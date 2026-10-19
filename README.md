@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
+  <img src="./assets/header.svg?v=3" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
 </p>
 
 <p align="center">
@@ -7,24 +7,43 @@
 </p>
 
 <p align="center">
-  Undergraduate specializing in <b>Artificial Intelligence & Machine Learning</b>.<br/>
-  I build complete software systems — not just models, but the apps, APIs and automation around them.
+  Currently working at <b>Abhyudyaya Techno Solution Pvt. Ltd.</b><br/>
+  I specialize in <b>Artificial Intelligence & Machine Learning</b> and build complete software systems —<br/>
+  not just models, but the apps, APIs and automation around them.
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./assets/what-i-do.svg?v=2" width="100%" alt="What I do: AI/ML, Apps, Web, APIs, Automation" />
+  <img src="./assets/what-i-do.svg?v=3" width="100%" alt="What I do: AI/ML, Apps, Web, APIs, Automation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeevan-gowda8?tab=repositories">
-    <img src="./assets/projects.svg?v=2" width="100%" alt="Featured projects: Fake Degree Detection, Jarvis Voice Assistant, IoT Campus Monitoring, Smart Attendance System" />
-  </a>
+  <img src="./assets/head-projects.svg?v=3" width="100%" alt="Featured work" />
 </p>
 
 <p align="center">
-  <img src="./assets/head-stack.svg?v=2" width="100%" alt="Tech stack" />
+  <a href="https://github.com/jeevan-gowda8/Draft_Guard"><img src="./assets/projects/draftguard.svg?v=3" width="49%" alt="DraftGuard" /></a>
+  <a href="https://github.com/jeevan-gowda8/aiurva"><img src="./assets/projects/aiurva.svg?v=3" width="49%" alt="AIURVA Medical Assistant" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jeevan-gowda8/Training-Updater"><img src="./assets/projects/training-tracker.svg?v=3" width="49%" alt="Training Tracker" /></a>
+  <a href="https://github.com/jeevan-gowda8/billing-web"><img src="./assets/projects/ats-reimbursement.svg?v=3" width="49%" alt="ATS Reimbursement Portal" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jeevan-gowda8/EcoBrain"><img src="./assets/projects/campus-monitor.svg?v=3" width="49%" alt="Campus Monitor" /></a>
+  <a href="https://github.com/jeevan-gowda8/admission-quiz"><img src="./assets/projects/gttc-admission.svg?v=3" width="49%" alt="GTTC Admission Portal" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jeevan-gowda8/Terminator-Desktop-Assisant"><img src="./assets/projects/terminator.svg?v=3" width="49%" alt="Terminator Desktop Assistant" /></a>
+  <a href="https://github.com/jeevan-gowda8/nursery"><img src="./assets/projects/areca-nursery.svg?v=3" width="49%" alt="Sri Areca Haven Nursery" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/head-stack.svg?v=3" width="100%" alt="Tech stack" />
 </p>
 
 <table align="center">
@@ -53,7 +72,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/head-stats.svg?v=2" width="100%" alt="GitHub stats" />
+  <img src="./assets/head-stats.svg?v=3" width="100%" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -66,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/head-connect.svg?v=2" width="100%" alt="Let's connect" />
+  <img src="./assets/head-connect.svg?v=3" width="100%" alt="Let's connect" />
 </p>
 
 <p align="center">
@@ -78,5 +97,5 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/footer.svg?v=2" width="100%" alt="Building practical AI systems that work in real applications." />
+  <img src="./assets/footer.svg?v=3" width="100%" alt="Building practical AI systems that work in real applications." />
 </p>
