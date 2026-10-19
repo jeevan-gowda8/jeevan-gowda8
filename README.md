@@ -57,12 +57,12 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1226&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d6ee&border_color=1d2a48&border_radius=16" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-gowda8&layout=compact&langs_count=8&bg_color=0b1226&title_color=22d3ee&text_color=c9d6ee&border_color=1d2a48&border_radius=16" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jeevan-gowda8&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1226&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d6ee&border_color=1d2a48&border_radius=16" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-gowda8&layout=compact&langs_count=8&card_width=400&bg_color=0b1226&title_color=22d3ee&text_color=c9d6ee&border_color=1d2a48&border_radius=16" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=jeevan-gowda8&background=0B1226&border=1D2A48&border_radius=16&stroke=1D2A48&ring=22D3EE&fire=8B5CF6&currStreakNum=E8EEFB&sideNums=E8EEFB&currStreakLabel=22D3EE&sideLabels=8FA0BF&dates=8FA0BF" alt="GitHub streak" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=jeevan-gowda8&background=0B1226&border=1D2A48&border_radius=16&stroke=1D2A48&ring=22D3EE&fire=8B5CF6&currStreakNum=E8EEFB&sideNums=E8EEFB&currStreakLabel=22D3EE&sideLabels=8FA0BF&dates=8FA0BF" alt="GitHub streak" />
 </p>
 
 <p align="center">
