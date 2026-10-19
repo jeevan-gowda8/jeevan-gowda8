@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Building practical AI systems that work in real applications."><title>Building practical AI systems that work in real applications.</title><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#0f1830"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="cardg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111b33"/><stop offset="1" stop-color="#0e1629"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+</defs>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+.glow{animation:glow 6s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:.55}50%{opacity:.9}}
+.flow{stroke-dasharray:6 10;animation:flow 1.6s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-32}}
+.fade{opacity:0;animation:fade .8s ease-out forwards}
+@keyframes fade{to{opacity:1}}
+</style>
+<rect width="1200" height="130" rx="20" fill="url(#bg)"/><rect width="1200" height="130" rx="20" fill="url(#grid)"/><rect x=".5" y=".5" width="1199" height="129" rx="19.5" fill="none" stroke="#1d2a48"/><rect x="420" y="30" width="360" height="2" rx="1" fill="url(#accent)" class="glow"/><text x="600" y="76" text-anchor="middle" class="sans" font-size="22" font-weight="600" fill="#e8eefb">Building practical AI systems that work in real applications.</text><text x="600" y="106" text-anchor="middle" class="mono" font-size="13" letter-spacing="2" fill="#8fa0bf">THANKS FOR VISITING</text></svg>
