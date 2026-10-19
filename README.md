@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=4" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
+  <img src="./assets/header.svg?v=5" width="100%" alt="Jeevan Gowda — AI/ML Engineer, Flutter & Web Developer, Python Automation" />
 </p>
 
 <p align="center">
@@ -67,6 +67,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jeevan-gowda8"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
   <a href="mailto:jeevangowdajeevan080@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
   <a href="https://instagram.com/ll_.jeevan._.gowda._ll"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram" /></a>
   <a href="https://github.com/jeevan-gowda8?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=E8EEFB" alt="Repositories" /></a>
