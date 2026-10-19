@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/tech-stack.svg?v=3" width="100%" alt="Tech stack: Python, JavaScript, Dart, C, C++, SQL, TensorFlow, PyTorch, OpenCV, scikit-learn, React, Flutter, HTML, CSS, Firebase, Arduino, Flask, FastAPI, Docker, AWS, GCP, Git, Linux" />
+  <img src="./assets/tech-stack.svg?v=4" width="100%" alt="Tech stack: Python, JavaScript, Dart, C, C++, SQL, TensorFlow, PyTorch, OpenCV, scikit-learn, React, Flutter, HTML, CSS, Firebase, Arduino, Flask, FastAPI, Docker, AWS, GCP, Git, Linux" />
 </p>
 
 <p align="center">
